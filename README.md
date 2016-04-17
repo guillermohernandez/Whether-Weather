@@ -1,6 +1,7 @@
 Whether Weather
 ======
 **Whether Weather** is a challenge from Free Code Camp's curriculum: https://www.freecodecamp.com/challenges/show-the-local-weather
+Built with Bootstrap, jQuery, and the WeatherUnderground API
 
 ## Demo
 http://codepen.io/guillermohernandez/full/bpaBKB/
